@@ -1,0 +1,2 @@
+The pictures of each blackbody should go into their own respective subfolder.
+The first three characters of the filename should be the blackbody temperature. The last digit should represent the first decimal place. For example, if the file is an image with blackbody temp at 30.0 Celsius, the first two characters should be '300.' If it is 0.0, it should be 00.
